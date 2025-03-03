@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>PhysicsTweaks</Name>
+  <Name>Physics Cluster Tweaks</Name>
   <Guid>8c550234-afb6-4714-83bd-4acac69ca269</Guid>
   <Repository>Nevcairiel/TorchPhysicsTweaks</Repository>
   <Version>v1.0.0</Version>
